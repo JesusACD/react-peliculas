@@ -1,0 +1,23 @@
+
+[
+		{
+			"titulo": "oblivion",
+			"year": "(2012)",
+			"score": "8.1",
+			"release": "1 May 2015",
+			"director": "Joss Whedon",
+			"stars": ["Robert Downey Jr", "Chris Evans", "Chris Hemsworth"],
+			"img": "images/uploads/mv1.jpg",
+			"description": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity..."
+		},
+		{
+			"titulo": "oblivion",
+			"year": "(2014)",
+			"score": "7.8",
+			"release": "1 May 2015",
+			"director": "Joe Russo",
+			"stars": ["Chris Evans", "Samuel L. Jackson", "Scarlett Johansson"],
+			"img": "images/uploads/mv2.jpg",
+			"description": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity..."
+		}
+	]
