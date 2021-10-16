@@ -3,10 +3,11 @@ export default function Paginacion(props) {
 
 	const getPaginas = () => {
 		const resultado = [];
-		for (let i = 1; i < total + 1; i++) {
+		for (let i = 0; i < total; i++) {
+			let pagin = i + 1;
 			resultado.push(
-				<a onClick={onChange} className={pagina === i ? 'active' : ''} href="#">
-					{i}
+				<a onClick={() => props.onChange(pagin)} className={pagina === pagin ? 'active' : ''}>
+					{pagin}
 				</a>
 			);
 		}
